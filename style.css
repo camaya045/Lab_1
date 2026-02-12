@@ -65,7 +65,7 @@ section {
 }
 
 /* ===========================
-   Buttons & Links
+   Links
    =========================== */
 a {
   color: #0066cc;
@@ -76,13 +76,13 @@ a:hover {
   text-decoration: underline;
 }
 
-button {
-  background-color: #007bff;
-  color: #fff;
-  border: none;
-  padding: 0.5rem 1rem;
-  cursor: pointer;
+
+image {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
 }
+
 
 /* ===========================
    Responsive Design
