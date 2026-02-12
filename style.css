@@ -77,10 +77,11 @@ a:hover {
 }
 
 
-image {
-  max-width: 100%;
+img {
+  max-width: 300px;
   height: auto;
-  margin: auto;
+  margin: 0 auto;
+  display: block;
 }
 
 
