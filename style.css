@@ -35,6 +35,16 @@ header {
   padding: 1rem;
 }
 
+nav {
+  display: flex;
+  gap: 1rem;
+}
+
+nav a {
+  color: #333;
+  padding: 0.5rem;
+}
+
 main {
   padding: 2rem;
 }
