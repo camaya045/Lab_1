@@ -31,7 +31,7 @@ p {
    Layout & Components
    =========================== */
 header {
-  background-color: #2d19df;
+  background-color: #f7d18a80;
   padding: 1rem;
 }
 
@@ -53,14 +53,14 @@ main {
 }
 
 footer {
-  background-color: #f4f4f4;
+  background-color: #f7d18a80;
   padding: 1rem;
   text-align: center;
 }
 
 section {
   max-width: 100%;
-  padding: 1rem;
+  padding: 2rem;
   margin-bottom: 2rem;
 }
 
